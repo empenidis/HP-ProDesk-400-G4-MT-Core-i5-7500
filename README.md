@@ -1,20 +1,14 @@
 # HP-ProDesk-400-G4-MT-Core-i5-7500
-
-Optisches Laufwerk:	
-
-DVD±RW Brenner	
+	
+Prozessorgeschwindigkeit: Intel Core i5	7500 @ 3,4 GHz	
 
 Festplattenkapazität:	SSD 250 GB
 
-Prozessorgeschwindigkeit:	7500 @ 3,4 GHz	
-
 Produktart:	Desktop
 
-SSD-Festplattenkapazität:	1 TB	
+Passend für: Büro
 
-Passend für:	Büro
-
-Prozessor:	Intel Core i5	
+Prozessor Graphics : Intel® HD Graphics 630Prozessor:	
 
 Formfaktor:	MicrotowerHerstellernummer:	1JJ50EA	
 
