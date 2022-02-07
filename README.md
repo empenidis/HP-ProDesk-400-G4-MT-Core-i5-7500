@@ -8,12 +8,10 @@ Produktart:	Desktop
 
 Passend für: Büro
 
-Prozessor Graphics : Intel® HD Graphics 630Prozessor:	
+Prozessor Graphics : Intel® HD Graphics 630 	
 
-Formfaktor:	MicrotowerHerstellernummer:	1JJ50EA	
+Modell:	ProDesk 400 G4 MT 
 
-Marke:	HPMaximale Arbeitsspeichergröße:	1 TB	
-
-Modell:	ProDesk 400 G4 MTArbeitsspeichergröße:	8 GB	
+Arbeitsspeichergröße:	8 GB	
 
 Serie:	ProDesk
