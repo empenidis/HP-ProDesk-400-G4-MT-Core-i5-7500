@@ -9,3 +9,7 @@ Prozessor Graphics : Intel® HD Graphics 630
 Arbeitsspeichergröße:	8 GB	
 
 Produktart: Desktop
+
+Alles funktioniert außer schlafen
+
+Everything works except sleep
