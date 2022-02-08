@@ -12,7 +12,6 @@ Prozessor Graphics : Intel® HD Graphics 630 (DisplayPort)
 Arbeitsspeichergröße:	8 GB	
 
 MQUPIN PCI-E-WLAN-Karte,Gigabit-Netzwerkkarte, BCM94360CS2 802.11ac WLAN-Adapter, Bluetooth 4.0
-https://www.amazon.de/gp/product/B081CFM2J4/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1
 
 Produktart: Desktop
 
