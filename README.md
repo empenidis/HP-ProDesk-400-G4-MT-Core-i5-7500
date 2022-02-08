@@ -1,6 +1,6 @@
 # HP ProDesk 400 G4 MT Core i5-7500
 
-# Monterey, Big Sur iMac18,1
+# Monterey, Big Sur,  iMac18,1
 
 Prozessorgeschwindigkeit: Intel Core i5	7500 @ 3,4 GHz
 
