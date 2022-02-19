@@ -2,6 +2,8 @@
 
 # Monterey, Big Sur,  iMac18,1
 
+# OpenCore-0.7.8 RELEASE
+ 
 Prozessorgeschwindigkeit: Intel Core i5	7500 @ 3,4 GHz
 
 Festplattenkapazität: Kingston KC2000 250GB M.2 NVMe SSD mit ( M.2 M2 NVMe SSD zu PCI-E PCI-Express PCIe 3.0 x16 Adapter Konverter Karte M Key )
