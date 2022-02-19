@@ -17,8 +17,8 @@ MQUPIN PCI-E-WLAN-Karte,Gigabit-Netzwerkkarte, BCM94360CS2 802.11ac WLAN-Adapter
 
 Produktart: Desktop
 
+POST Error (fix)
+
 Alles funktioniert außer schlafen
 
 Everything works except sleep
-
-POST Error (fix)
