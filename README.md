@@ -20,3 +20,5 @@ Produktart: Desktop
 Alles funktioniert außer schlafen
 
 Everything works except sleep
+
+POST Error (fix)
