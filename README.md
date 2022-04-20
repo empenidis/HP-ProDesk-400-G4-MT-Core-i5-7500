@@ -4,7 +4,7 @@
 
 # OpenCore-0.7.8 RELEASE
 
-Kingston KC2000 250GB M.2 NVMe SSD   ( M.2 M2 NVMe SSD zu PCI-E PCI-Express PCIe 3.0 x16 Adapter Konverter Karte M Key )
+M.2 NVMe SSD Kingston KC2000 250GB    (PCI-E PCI-Express PCIe 3.0 x16 Adapter Konverter Karte M Key )
 
 Intel® HD Graphics 630 (DisplayPort)
 
