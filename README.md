@@ -1,8 +1,8 @@
 # HP ProDesk 400 G4 MT Core i5-7500
 
-# Monterey, Big Sur,  iMac18,1
+# Monterey, Big Sur,  iMac18,1    OpenCore-0.7.8 RELEASE
 
-# OpenCore-0.7.8 RELEASE
+# Monterey, Big Sur,  Macmini8,1 Opencore 0.8.0 RELEASE
 
 M.2 NVMe SSD Kingston KC2000 250GB    (M.2 M2 nvme SSD to PCI-E PCI Express PCIe 3.0 x16 Adapter Converter Card M key )
 
